@@ -2,7 +2,7 @@
 
 POC1 is about attaching an IMU sensor (https://www.adafruit.com/product/4517) to an M5StampS3 and making this a foundational component of the RockeTone architecture.  It also includes a simple NFC concept for getting rocket launch information or possibly even collecting the rocket data (in the future).
 
-![image](https://private-user-images.githubusercontent.com/64202/372331234-3c8f7d34-4a6a-43d5-a5d4-5e59dfea9548.gif)
+![20240923_212805000_iOS](https://github.com/user-attachments/assets/3c8f7d34-4a6a-43d5-a5d4-5e59dfea9548)
 
 ## Goals
 
@@ -20,7 +20,7 @@ POC1 is about attaching an IMU sensor (https://www.adafruit.com/product/4517) to
 
 ## Wiring Diagram
 
-![image](https://private-user-images.githubusercontent.com/64202/372333345-8522988b-6eca-4e7d-88a2-8cf72e5cd658.png)
+![image](https://github.com/user-attachments/assets/8522988b-6eca-4e7d-88a2-8cf72e5cd658)
 
 The M5StampS3 does not have a grove connector.  To wire it easily, see the diagram below.
 ![image](https://github.com/user-attachments/assets/f147cf9d-11e9-43dc-895d-1b8214a6975f)
