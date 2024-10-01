@@ -31,9 +31,10 @@ The IMU used in this case is an Adafruit LSM6DSOX + LIS3MDL - Precision 9 DoF IM
 
 ## Setup
 
-- Need to do pre-req M5StampS3 Setup
-- Need to install Adafruit Sensor Lab
-- Run Adafruit Sensor Calibration -> sensor_calibration_write and sensor_calibration_read (to verify).
+- Need to do pre-req M5StampS3 Setup.  Follow these one time steps to get set up for M5Stack development on Arduino
+- Verify your M5StampS3 setup by installing the LED example here: https://github.com/IoTone/STAMP-S3
+- Need to install Adafruit Sensor Lab.  See instructions:  https://learn.adafruit.com/adafruit-sensorlab-gyroscope-calibration/install-sensorlab
+- Run Adafruit Sensor Calibration -> sensor_calibration_write and sensor_calibration_read (to verify).  See https://github.com/IoTone/RockeTone/blob/main/POC/poc1/sensor_calibration_write/sensor_calibration_write.ini , also See: https://github.com/IoTone/RockeTone/blob/main/POC/poc1/sensor_calibration_read/sensor_calibration_read.ini
 - Run the modified version of the calibrated_orientation in the calibrated_orientation directory.  This has the needed PINs and headers defined.  A bit tricky because docs don't really put the pieces together for how to make it work.
 - Copy the files from here https://github.com/IoTone/Adafruit_WebSerial_3DModelViewer into your webserver.  NOTE: your web server must use HTTPS.  Modern chrome browser will not function without https being served.
 
