@@ -2,7 +2,7 @@
 
 概念検証(POC1)とは、IMUセンサー(https://www.adafruit.com/product/4517) をM5StampS3に取り付け、これがロケトーンを構成する基礎的要素になります。また、ロケットの発射情報を入手したり、将来的にはロケットデータを収集するという点で、シンプルなNFC（Near Field Communication）コンセプトを含んでいます。
 
-![image](https://github.com/user-attachments/assets/87b92311-e259-41bf-bdb2-ed5429321095)
+![20240923_212805000_iOS](https://github.com/user-attachments/assets/3c8f7d34-4a6a-43d5-a5d4-5e59dfea9548)
 
 
 ## ゴール
